@@ -62,7 +62,7 @@ key
 bird
 circle
 butterfly
-ice_scream
+ice_cream
 suitcase
 hammer
 rainbow
